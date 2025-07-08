@@ -6,3 +6,6 @@ Project Type: Excel Dashboard
 Tools Used: Microsoft Excel (PivotTables, Charts, Slicers, Conditional Formatting, Formulas)
 
 Purpose: To analyze and visualize key performance indicators (KPIs) in a clear, user-friendly interface
+
+# Dasshboard Preview 
+[![Dashboard Preview](https://github.com/rohan7056/Sales-Analysis-/blob/32e47f666a9569be667a809a7616c0a6a5786c82/dashboard.png)]
